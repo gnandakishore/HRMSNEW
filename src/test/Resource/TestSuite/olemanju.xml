@@ -4,7 +4,7 @@
 <parameter name="browserType" value=""/> -->
   <test name="Regression 1">
     <classes>
-      <class name="com.hs.tests.LoginTest"/>
+      <class name="com.nk.tests.LoginTest"/>
     </classes>
   </test>
 </suite>
